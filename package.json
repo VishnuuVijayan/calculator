@@ -12,7 +12,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "ghpages -d",
+    "deploy": "ghpages -d dist",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
