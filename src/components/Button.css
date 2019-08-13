@@ -11,7 +11,15 @@
     outline: 1px solid #888;
 }
 .operator{
+    display: flex;
+    height: 4em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
     background-color: #fe9241;
+    outline: 1px solid #888;
     color: #fff;
 
 
